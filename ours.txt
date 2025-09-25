@@ -1,7 +1,8 @@
 Hello team,
 This is the project update.
-The deadline is next Friday.
-We should focus on frontend tasks first.
-Thank you,
-Divyansh
+The deadline is next Monday.
+We should focus on backend tasks first.
+Regards,
+Project Lead
+scasca:wq
 
