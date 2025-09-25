@@ -1,0 +1,7 @@
+Hello team,
+This is the project update.
+The deadline is next Friday.
+We should focus on frontend tasks first.
+Thank you,
+Divyansh
+
